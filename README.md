@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Saikumar Simhachalam 👋
 
-<!--
-**saikumarsimhachalam/saikumarsimhachalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with hands-on experience in SQL, Python, pandas, data visualization, and business analysis.
 
-Here are some ideas to get you started:
+## 🔍 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building data analysis portfolio projects
+- Learning SQL, Python, Power BI, and data storytelling
+- Analyzing business data to find actionable insights
+
+## 📊 Featured Project
+
+- [E-Commerce Sales, Customer Behavior & A/B Test Analysis](https://github.com/saikumarsimhachalam/ecommerce-analytics-project)
+
+## 🛠️ Skills
+
+- SQL
+- Python
+- Pandas
+- Matplotlib
+- Data Cleaning
+- Exploratory Data Analysis
+- MySQL
+- Git & GitHub
+- Data Visualization
+
+## 📫 Connect With Me
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/saikumar-simhachalam)
+- Email: saikumarsimhachalam17@gmail.com
